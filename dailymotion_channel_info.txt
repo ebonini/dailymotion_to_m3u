@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Times | | |
-https://www.dailymotion.com/video/x9ap9pq
+https://geo.dailymotion.com/player/x13c72.html?video=k5EubmtjIGf0YGC2OhU
